@@ -28,6 +28,16 @@ This folder has 3 implementations, namely:
 
 **3- Observer**
 
+## Payment
+
+This folder has 3 implementations, namely:
+
+**1- Singleton**
+
+**2- Adapter**
+
+**3- Strategy**
+
 ## Checkstyle
 
 
