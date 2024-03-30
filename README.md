@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/guifelippe/design-patterns?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/guifelippe/design-patterns?style=for-the-badge)
 
- - This is a Java project where I train design patterns and good programming practices
+ - This is a Java project where I train design patterns(behavioral, creational and structural) and good programming practices
 
 ## Vehicle
 
@@ -17,6 +17,16 @@ This folder has 3 implementations, namely:
 **2- Bridge**
 
 **3- Memento**
+
+## Order
+
+This folder has 3 implementations, namely:
+
+**1- Builder**
+
+**2- Facade**
+
+**3- Observer**
 
 ## Checkstyle
 
