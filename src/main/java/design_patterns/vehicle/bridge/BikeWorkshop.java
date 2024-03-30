@@ -8,7 +8,7 @@ public class BikeWorkshop extends VehicleWorkshop
     }
 
     @Override
-    void manufacture()
+    public void manufacture()
     {
         System.out.print("Bike: ");
         workshop.work();

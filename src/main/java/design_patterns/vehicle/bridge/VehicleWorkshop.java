@@ -1,6 +1,6 @@
 package design_patterns.vehicle.bridge;
 
-abstract class VehicleWorkshop
+public abstract class VehicleWorkshop
 {
     protected Workshop workshop;
 
@@ -9,5 +9,5 @@ abstract class VehicleWorkshop
         this.workshop = workshop;
     }
 
-    abstract void manufacture();
+    public abstract void manufacture();
 }
