@@ -48,6 +48,17 @@ This folder has 3 implementations, namely:
 
 **3- Iterator**
 
+## Authenticator
+
+This folder has 3 implementations, namely:
+
+**1- Factory method**
+
+**2- Proxy**
+
+**3- Chain of responsability**
+
+
 ## Checkstyle
 
 To ensure code quality, it is recommended to run Checkstyle. You can do this by running the following Maven command in the terminal:
